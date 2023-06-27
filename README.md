@@ -1,5 +1,7 @@
 # platzi-pizzeria
 
+![image](https://github.com/Julian1699/platzi-pizzeria/assets/114323630/cce0ac2a-5695-4dde-a74a-cd6db6de5267)
+
 Platzi Pizzería es un proyecto que busca desarrollar la base de datos y API REST del backend de un almacén de pizzas. Este sistema incluirá funcionalidades para gestionar clientes, facturas, filtros por tipo de pizza y promociones.
 
 La API REST proporcionará las siguientes características:
